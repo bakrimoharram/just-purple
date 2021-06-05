@@ -1,0 +1,30 @@
+{
+    "name": "shades-of-purple",
+    "displayName": "Shades-of-Purple",
+    "publisher": "bakrimoharram",
+    "description": "Dark Purple theme for vs code.",
+    "author": {
+        "name": "Bakri Moharram",
+        "email": "bakri_moharram@hotmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/bakrimoharram/shades-of-purple.git",
+        "type": "git"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shades of Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shades-of-purple.json"
+            }
+        ]
+    }
+}
