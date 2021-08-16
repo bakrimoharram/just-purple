@@ -1,6 +1,6 @@
 {
-    "name": "shades-of-purple",
-    "displayName": "Shades-of-Purple",
+    "name": "just-purple",
+    "displayName": "Just Purple",
     "publisher": "bakrimoharram",
     "description": "Dark Purple theme for vs code.",
     "author": {
@@ -8,12 +8,12 @@
         "email": "bakri_moharram@hotmail.com"
     },
     "repository": {
-        "url": "https://github.com/bakrimoharram/shades-of-purple.git",
+        "url": "https://github.com/bakrimoharram/just-purple.git",
         "type": "git"
     },
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.55.0"
+        "vscode": "^1.58.0"
     },
     "categories": [
         "Themes"
@@ -21,9 +21,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Shades of Purple",
+                "label": "Just Purple",
                 "uiTheme": "vs-dark",
-                "path": "./themes/shades-of-purple.json"
+                "path": "./themes/just-purple.json"
             }
         ]
     }

@@ -1,4 +1,4 @@
 # README
-DarkPurple Theme for VSCode.
+Dark Purple Theme for VSCode.
 
-![](https://github.com/bakrimoharram/shades-of-purple/raw/master/assets/preview.jpeg)
+![](https://github.com/bakrimoharram/just-purple/raw/master/assets/preview.jpeg)
